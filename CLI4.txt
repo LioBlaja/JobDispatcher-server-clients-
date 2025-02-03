@@ -1,0 +1,2 @@
+CLI4 PRIMES 10000987
+Primes Count: 664639
